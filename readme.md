@@ -3,7 +3,7 @@
 This is a workshop for week 4
 
 **Learning Objective:**
-<ul>
-<li>Configuration of Git<li>
-</ul>
-- 
+- Configuration of list
+- Familariize with markdown
+- Add a html file
+
